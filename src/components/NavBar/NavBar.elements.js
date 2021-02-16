@@ -8,6 +8,11 @@ export const NavBarContainer = styled.div`
 `;
 
 export const Avatar = styled.div`
+  display: flex;
+  align-items: center;
+`;
+
+export const Image = styled.div`
   width: 3em;
   height: auto;
   padding: .5em;
@@ -19,6 +24,12 @@ export const Avatar = styled.div`
     border-radius: 50%;
     border: 1px solid #fff;
   }
+`;
+
+export const Title = styled.div`
+  font-size: 1.2em;
+  color: #fff;
+  padding-left: .5em;
 `;
 
 export const Hamburger = styled.div`

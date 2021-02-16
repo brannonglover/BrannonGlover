@@ -1,12 +1,15 @@
 import React from "react";
-import { NavBarContainer, Avatar, Links, Hamburger } from "./NavBar.elements";
+import { NavBarContainer, Avatar, Image, Title, Links, Hamburger } from "./NavBar.elements";
 import Me from "../../assets/images/me.png";
 
 export default function NavBar() {
   return (
     <NavBarContainer>
       <Avatar>
-        <img src={Me} alt="Brannon Glover" />
+        <Image>
+          <img src={Me} alt="Brannon Glover" />
+        </Image>
+        <Title>Frontend Developer</Title>
       </Avatar>
       <Hamburger>
         <div></div>
