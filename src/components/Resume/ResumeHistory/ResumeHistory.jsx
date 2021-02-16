@@ -1,5 +1,5 @@
 import React from 'react';
-import { History, Header, Title, TTL, WhatIDid } from './ResumeHistory.elements';
+import { Employment, History, Header, Title, TTL, WhatIDid } from './ResumeHistory.elements';
 import data from '../../../assets/info.json';
 
 export default function ResumeHistory() {
@@ -7,22 +7,50 @@ export default function ResumeHistory() {
     <>
       {data.history.map(job => (
         <History key={job.id}>
+          <Employment>{job.company}</Employment>
           <Header>
             <Title>{job.title}</Title>
             <TTL>{job.ttl}</TTL>
           </Header>
-          <WhatIDid>
-            <ul>
-              {job.whatidid.map((desc, i) => {
-                if (job.title !== "Multiple Titles") {
+          {!job.multiple && (
+            <WhatIDid>
+              <ul>
+                {job.whatidid.map((desc, a) => {
+                  if (!job.multiple) {
+                    return <li key={a}>{desc}</li>
+                  }
+                  return false
+                })}
+              </ul>
+            </WhatIDid>
+          )}
+          {job.multiple && (
+            <>
+              {job.whatidid.map((desc,i) => {
+                if (job.multiple) {
                   return (
-                    <li key={i}>{desc}</li>
+                    <React.Fragment key={i}>
+                      <Header>
+                        <Title>{desc.title}</Title>
+                        <TTL>{desc.ttl}</TTL>
+                      </Header>
+                      <WhatIDid>
+                        <ul>
+                          {desc.whatidid.map((multidesc, b) => {
+                            if (job.multiple) {
+                              return <li key={b}>{multidesc}</li>
+                            }
+                            return false
+                          })}
+                        </ul>   
+                      </WhatIDid>
+                    </React.Fragment>
                   )
                 }
                 return false
               })}
-            </ul>
-          </WhatIDid>
+            </>
+          )}
         </History>
       ))}
     </>

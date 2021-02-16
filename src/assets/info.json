@@ -10,13 +10,15 @@
     "CSS",
     "SASS",
     "JSON",
-    "styled-components"
+    "styled-components",
+    "HTML"
   ],
   "history": [
     {
       "id": 1,
       "company": "Recon Velocity",
       "title": "Senior Web Developer",
+      "multiple": false,
       "ttl": "2020 - 2021",
       "whatidid": [
         "Building out a customer facing vehicle details page (VDP)",
@@ -33,6 +35,7 @@
       "id": 2,
       "company": "Luckie",
       "title": "Senior Web Developer",
+      "multiple": false,
       "ttl": "2019 - 2020",
       "whatidid": [
         "Develop and maintain client websites with AEM/JavaScript/CSS",
@@ -51,6 +54,7 @@
       "id": 3,
       "company": "United Group Programs",
       "title": "Senior Web Developer",
+      "multiple": false,
       "ttl": "2019 - 2019",
       "whatidid": [
         "Develop and maintain company portals built in React/SASS/Styled-Components/Redux",
@@ -66,6 +70,7 @@
       "id": 4,
       "company": "DC Blox",
       "title": "Senior Web Developer",
+      "multiple": false,
       "ttl": "2018 - 2019",
       "whatidid": [
         "Develop and maintain site code built in React/SASS/Redux",
@@ -79,7 +84,8 @@
     {
       "id": 5,
       "company": "Turner Broadcasting",
-      "title": "Multiple Titles",
+      "title": "",
+      "multiple": true,
       "ttl": "2008 - 2018",
       "whatidid": [
         {
@@ -132,7 +138,9 @@
     },
     {
       "id": 6,
+      "company": "Georgia Department of Education",
       "title": "Web Developer",
+      "multiple": false,
       "ttl": "2007-2008",
       "whatidid": [
         "Built client relationship with each scheduled project",
