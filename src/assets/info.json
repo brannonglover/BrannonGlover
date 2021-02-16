@@ -1,0 +1,144 @@
+{
+  "my_name": "Brannon Glover",
+  "technical_skills": [
+    "React",
+    "React Hooks",
+    "Context",
+    "Redux",
+    "JavaScript",
+    "REST",
+    "CSS",
+    "SASS",
+    "JSON",
+    "styled-components"
+  ],
+  "history": [
+    {
+      "id": 1,
+      "company": "Recon Velocity",
+      "title": "Senior Web Developer",
+      "ttl": "2020 - 2021",
+      "whatidid": [
+        "Building out a customer facing vehicle details page (VDP)",
+        "Programming technologies used are React Hooks, TypeScript and SASS",
+        "Working with backend developers to build out the REST endpoints to capture data from DB",
+        "Work/Troubleshoot to think out possible solutions to complex problems",
+        "Use multiple browsers based on troubleshooting needs",
+        "Work close with UX and backend to accomplish each task",
+        "Project managed through JIRA using stories and subtasks on Kanban",
+        "Assets received from Figma to help fulfill design requirements"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Luckie",
+      "title": "Senior Web Developer",
+      "ttl": "2019 - 2020",
+      "whatidid": [
+        "Develop and maintain client websites with AEM/JavaScript/CSS",
+        "Use BrowserStack to test and troubleshoot Windows platforms",
+        "Use Chrome Developer Tools to troubleshoot outside of Windows platforms",
+        "Work within JIRA to keep project intake organized",
+        "Communicate with team and leadership on a per project basis",
+        "Lead teams to help keep developers and the project on track",
+        "Strategize with project managers to meet client requests/needs",
+        "Use Git to commit, push, create PR’s and merge branches",
+        "Review/comment on Pull Requests before merging to staging",
+        "Mentor junior developers"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "United Group Programs",
+      "title": "Senior Web Developer",
+      "ttl": "2019 - 2019",
+      "whatidid": [
+        "Develop and maintain company portals built in React/SASS/Styled-Components/Redux",
+        "Work closely with Engineering to setup REST endpoints",
+        "Use CrossBrowserTesting.com to test and troubleshoot within Windows platforms",
+        "Use Chrome Developer Tools (React and Redux tabs) to troubleshoot outside of Windows platforms",
+        "Work within Clubhouse to keep work organized",
+        "Use Git to create commit, push, create PR’s and merge branches",
+        "Review/comment on Pull Requests before merging to staging"
+      ]
+    },
+    {
+      "id": 4,
+      "company": "DC Blox",
+      "title": "Senior Web Developer",
+      "ttl": "2018 - 2019",
+      "whatidid": [
+        "Develop and maintain site code built in React/SASS/Redux",
+        "Work closely with team to fulfill weekly/bi-weekly Sprints",
+        "Use Parallels to test and troubleshoot within Windows platforms",
+        "Use Chrome Developer Tools to troubleshoot outside of Windows platforms",
+        "Work within JIRA to keep work organized and create branches/pull requests",
+        "Review/comment on Pull Requests before merging to staging"
+      ]
+    },
+    {
+      "id": 5,
+      "company": "Turner Broadcasting",
+      "title": "Multiple Titles",
+      "ttl": "2008 - 2018",
+      "whatidid": [
+        {
+          "id": 1,
+          "title": "Technical Implementation Consultant",
+          "ttl": "2017-2018",
+          "whatidid": [
+            "Work with our Stakeholders (Brand Research,Product Research,Brand Dev) to understand requirements",
+            "Convert tracking requirements into a technical document (Standard Design Requirements - SDR)",
+            "Implement JavaScript code based on web tracking requirements",
+            "Work with vendors to help implement app code tracking requirements (Mobile and OTT)",
+            "Collaborate with QA and Research to fulfill business requirements",
+            "Collaborate with my own team to better ourselves and make sure needs are being met",
+            "Work with our QA and Offshore Dev team to build software, which helps on turnaround time"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Senior Web Developer",
+          "ttl": "2012-2017",
+          "whatidid": [
+            "Develop and maintain our JavaScript API, which houses Omniture/Nielsen/Comscore analytics tracking",
+            "Created a local build script, using JavaScript and Python, to help our team run local builds for testing purposes",
+            "Provide consulting on app development (iOS and Android) towards analytics tracking",
+            "Ongoing relationship building with our brands",
+            "Troubleshoot JavaScript issues with Chrome Development Tools and Charles Proxy",
+            "Continued success of meeting personal, team and department goals",
+            "Work along side Project Managers and SICs to meet project deadlines and expectations",
+            "Organize projects using AGILE Rapid Boards using Kanban layout",
+            "Worked with leadership to plan for our next platform, which would be a tag management solution"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Web Developer",
+          "ttl": "2008-2012",
+          "whatidid": [
+            "Developed and maintain our QA Tool based in JavaScript",
+            "Developed and maintain our skin template system based in JavaScript and JQuery",
+            "Developed our in-house interstitial, which plays video’s, swf’s and displays images in JavaScript and jQuery",
+            "Troubleshoot JavaScript issues via FireBug and the Developer’s Tool Kit",
+            "Strong working knowledge of the Unix command line",
+            "Continuous learning and use of JavaScript libraries",
+            "Ongoing relationship building with my team and our clients and vendors",
+            "Develop applications based in JavaScript to better assist my team in their QA process",
+            "Work through ticket system (JIRA) to ensure organization and priority"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Web Developer",
+      "ttl": "2007-2008",
+      "whatidid": [
+        "Built client relationship with each scheduled project",
+        "Responsible for meeting client deadlines based on a two build a week process",
+        "Managed websites coded in XSLT technology using Visual Studio 2005, Visual Source Safe, SQL Server, Photoshop CS3, Flash CS3, and XHTML using W3C standards"
+      ]
+    }
+  ]
+}
