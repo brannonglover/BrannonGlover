@@ -148,5 +148,13 @@
         "Managed websites coded in XSLT technology using Visual Studio 2005, Visual Source Safe, SQL Server, Photoshop CS3, Flash CS3, and XHTML using W3C standards"
       ]
     }
+  ],
+  "school": [
+    {
+      "id": 1,
+      "degree": "Associate, Applied Science",
+      "school": "Sandhills Community College",
+      "major": "Internet Technologies"
+    }
   ]
 }
