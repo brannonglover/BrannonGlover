@@ -2,13 +2,17 @@ import styled from 'styled-components/macro';
 
 export const NavBarContainer = styled.div`
   width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 3em;
+  display: flex;
   background-color: #414047;
+  border-bottom: 1px solid #fff;
+  position: fixed;
+  top: 0;
+  z-index: 5;
 `;
 
 export const Avatar = styled.div`
   display: flex;
+  flex-basis: 85%;
   align-items: center;
 `;
 

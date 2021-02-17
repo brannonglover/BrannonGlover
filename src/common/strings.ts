@@ -8,8 +8,9 @@ const strings: IStrings = {
   loved every minute of it; the good times and the bad since that's helped
   me build who I am today. Feel free to look around and hit me up if you
   are in need of a developer.`,
-  TECHNICAL_SKILLS: "Technical Skills",
-  HISTORY: "History"
+  "TECHNICAL_SKILLS": "Technical Skills",
+  HISTORY: "History",
+  "FRONTEND_DEV": "Frontend Developer"
 }
 
 export default strings;

@@ -1,4 +1,8 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from "styled-components/macro";
+
+export const colors = {
+  darkGrey: "#414047"
+}
 
 export const GlobalStyle = createGlobalStyle`
   body {

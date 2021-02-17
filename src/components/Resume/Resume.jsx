@@ -4,9 +4,9 @@ import strings from '../../common/strings';
 import SkillTabs from '../SkillTabs/SkillTabs';
 import ResumeHistory from './ResumeHistory/ResumeHistory';
 
-export default function Resume() {
+const Resume = ({ navHeight }) => {
   return (
-    <Section>
+    <Section navHeight={navHeight}>
       <Header>{strings.MY_NAME}</Header>
       <Paragraph>
         {strings.INTRO}
@@ -18,3 +18,5 @@ export default function Resume() {
     </Section>
   )
 }
+
+export default Resume;

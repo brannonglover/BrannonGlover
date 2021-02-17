@@ -1,33 +1,24 @@
 import React from "react";
-import { NavBarContainer, Avatar, Image, Title, Links, Hamburger } from "./NavBar.elements";
+import { NavBarContainer, Avatar, Image, Title, Hamburger } from "./NavBar.elements";
 import Me from "../../assets/images/me.png";
+import strings from "../../common/strings";
 
-export default function NavBar() {
+const NavBar = React.forwardRef(({ menuToggle }, ref) => {
   return (
-    <NavBarContainer>
+    <NavBarContainer ref={ref}>
       <Avatar>
         <Image>
           <img src={Me} alt="Brannon Glover" />
         </Image>
-        <Title>Frontend Developer</Title>
+        <Title>{strings.FRONTEND_DEV}</Title>
       </Avatar>
-      <Hamburger>
+      <Hamburger onClick={menuToggle}>
         <div></div>
         <div></div>
         <div></div>
       </Hamburger>
-      <Links>
-        <a
-          href="https://github.com/brannonglover"
-          rel="noreferrer"
-          target="_blank"
-        >
-          GitHub
-        </a>
-        <a href="https://twitter.com/BrannonGlover" rel="noreferrer">
-          Twitter
-        </a>
-      </Links>
     </NavBarContainer>
   );
-}
+});
+
+export default NavBar;
