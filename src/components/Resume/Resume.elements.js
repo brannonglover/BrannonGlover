@@ -2,7 +2,6 @@ import styled from 'styled-components/macro';
 
 export const Section = styled.div`
   padding: 0 .5em;
-  padding-top: ${props => `${props.navHeight}px`};
 `;
 
 export const Header = styled.h1`

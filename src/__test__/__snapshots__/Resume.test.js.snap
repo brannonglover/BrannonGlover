@@ -3,7 +3,7 @@
 exports[`Render Resume component 1`] = `
 <DocumentFragment>
   <div
-    class="Resumeelements__Section-sc-1b286ck-0 jlYLVe"
+    class="Resumeelements__Section-sc-1b286ck-0 cmvSnd"
   >
     <h1
       class="Resumeelements__Header-sc-1b286ck-1 cdXXOM"
@@ -98,7 +98,7 @@ exports[`Render Resume component 1`] = `
       <h2
         class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
       >
-        Recon Velocity
+        Recon Velocity (contractor)
       </h2>
       <div
         class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
@@ -151,7 +151,7 @@ exports[`Render Resume component 1`] = `
       <h2
         class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
       >
-        Luckie
+        Luckie (contractor)
       </h2>
       <div
         class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
@@ -260,7 +260,7 @@ exports[`Render Resume component 1`] = `
       <h2
         class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
       >
-        DC Blox
+        DC Blox (contractor)
       </h2>
       <div
         class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"

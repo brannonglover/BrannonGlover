@@ -8,7 +8,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 `;
 
-export const ResumeWrapper = styled.div`
+export const ResumeWrapper = styled.div<{ navHeight: number }>`
   max-width: 75em;
   margin: 0 auto;
+  padding-top: ${props => `${props.navHeight}px`};
 `;

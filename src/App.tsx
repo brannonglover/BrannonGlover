@@ -25,8 +25,8 @@ function App() {
     <>
       <GlobalStyle />
       <NavBar ref={navBar} menuToggle={menuToggle} />
-      <ResumeWrapper>
-        <Resume navHeight={navHeight} />
+      <ResumeWrapper navHeight={navHeight}>
+        <Resume />
         <Education />
         <Menu showMenu={showMenu} menuToggle={menuToggle} />
       </ResumeWrapper>
