@@ -10,9 +10,10 @@
     "REST",
     "CSS",
     "SASS",
+    "CSS-in-JS",
     "JSON",
-    "styled-components",
-    "HTML"
+    "HTML",
+    "Docker"
   ],
   "links": [
     {

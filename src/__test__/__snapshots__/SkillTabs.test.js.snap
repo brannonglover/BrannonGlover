@@ -53,17 +53,22 @@ exports[`Render SkillTabs component 1`] = `
     <div
       class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
     >
+      CSS-in-JS
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
       JSON
     </div>
     <div
       class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
     >
-      styled-components
+      HTML
     </div>
     <div
       class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
     >
-      HTML
+      Docker
     </div>
   </div>
 </DocumentFragment>
