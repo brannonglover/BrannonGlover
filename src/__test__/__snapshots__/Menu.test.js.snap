@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Menu component 1`] = `
+<DocumentFragment>
+  <div
+    class="Menuelements__MenuWrapper-k5kaq1-0 httLqd"
+  >
+    <ul>
+      <li>
+        <a
+          href="https://github.com/brannonglover?tab=repositories"
+          rel="noreferrer"
+          target="_blank"
+        >
+          GitHub
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://twitter.com/BrannonGlover"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Twitter
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://medium.com/@brannonglover"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Medium
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.linkedin.com/in/brannon-glover-31a22212/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          LinkedIn
+        </a>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

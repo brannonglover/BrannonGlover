@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render NavBar component 1`] = `
+<DocumentFragment>
+  <div
+    class="NavBarelements__NavBarWrapper-sc-15n5tzl-0 hDaOpt"
+  >
+    <div
+      class="NavBarelements__NavBarContainer-sc-15n5tzl-1 dAleMO"
+    >
+      <div
+        class="NavBarelements__Avatar-sc-15n5tzl-2 dpvuOI"
+      >
+        <div
+          class="NavBarelements__Image-sc-15n5tzl-3 fWapQl"
+        >
+          <img
+            alt="Brannon Glover"
+            src="me.png"
+          />
+        </div>
+        <div
+          class="NavBarelements__Title-sc-15n5tzl-4 hDYNLT"
+        >
+          Frontend Developer
+        </div>
+      </div>
+      <div
+        class="Menuelements__MenuWrapper-k5kaq1-0 httLqd"
+      >
+        <ul>
+          <li>
+            <a
+              href="https://github.com/brannonglover?tab=repositories"
+              rel="noreferrer"
+              target="_blank"
+            >
+              GitHub
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://twitter.com/BrannonGlover"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Twitter
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://medium.com/@brannonglover"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Medium
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.linkedin.com/in/brannon-glover-31a22212/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              LinkedIn
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="NavBarelements__Hamburger-sc-15n5tzl-5 gfUypB"
+      >
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

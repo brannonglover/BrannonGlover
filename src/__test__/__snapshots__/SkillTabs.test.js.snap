@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render SkillTabs component 1`] = `
+<DocumentFragment>
+  <div
+    class="SkillTabselements__SkillTabsWrapper-mdholk-0 hxGMPF"
+  >
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      React
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      React Hooks
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      Context
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      Redux
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      TypeScript
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      JavaScript
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      REST
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      CSS
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      SASS
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      JSON
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      styled-components
+    </div>
+    <div
+      class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+    >
+      HTML
+    </div>
+  </div>
+</DocumentFragment>
+`;

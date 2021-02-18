@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Education component 1`] = `
+<DocumentFragment>
+  <div
+    class="Educationelements__EducationWrapper-rr5tu7-0 hociVB"
+  >
+    <h1
+      class="Educationelements__Header-rr5tu7-1 cOcawK"
+    >
+      Education
+    </h1>
+    <h2
+      class="Educationelements__Title-rr5tu7-2 cGsNaP"
+    >
+      Associate, Applied Science
+    </h2>
+    <p
+      class="Educationelements__School-rr5tu7-3 jNqMRH"
+    >
+      Sandhills Community College
+    </p>
+    <div
+      class="Educationelements__Major-rr5tu7-4"
+    >
+      Internet Technologies
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -12,7 +12,7 @@ const Menu: React.FC<IMenuProps> = ({ showMenu, menuToggle }) => {
     <MenuWrapper onClick={menuToggle} className={showMenu ? "showMenu" : ""}>
       <ul>
         {data.links.map((link) => (
-          <li>
+          <li key={link.id}>
             <a href={link.url} rel="noreferrer" target="_blank">
               {link.name}
             </a>

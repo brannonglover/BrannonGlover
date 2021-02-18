@@ -1,0 +1,500 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Resume component 1`] = `
+<DocumentFragment>
+  <div
+    class="Resumeelements__Section-sc-1b286ck-0 jlYLVe"
+  >
+    <h1
+      class="Resumeelements__Header-sc-1b286ck-1 cdXXOM"
+    >
+      Brannon Glover
+    </h1>
+    <p
+      class="Resumeelements__Paragraph-sc-1b286ck-3 iZDblZ"
+    >
+      I've been in the web development business for over 15 years and have
+  loved every minute of it; the good times and the bad since that's helped
+  me build who I am today. Feel free to look around and hit me up if you
+  are in need of a developer.
+    </p>
+    <h2
+      class="Resumeelements__SubHeader-sc-1b286ck-2 CgrjB"
+    >
+      Technical Skills
+    </h2>
+    <div
+      class="SkillTabselements__SkillTabsWrapper-mdholk-0 hxGMPF"
+    >
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        React
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        React Hooks
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        Context
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        Redux
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        TypeScript
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        JavaScript
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        REST
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        CSS
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        SASS
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        JSON
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        styled-components
+      </div>
+      <div
+        class="SkillTabselements__SkillTab-mdholk-1 bjlGyP"
+      >
+        HTML
+      </div>
+    </div>
+    <h2
+      class="Resumeelements__SubHeader-sc-1b286ck-2 CgrjB"
+    >
+      History
+    </h2>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        Recon Velocity
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Senior Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2020 - 2021
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Building out a customer facing vehicle details page (VDP)
+          </li>
+          <li>
+            Programming technologies used are React Hooks, TypeScript and SASS
+          </li>
+          <li>
+            Working with backend developers to build out the REST endpoints to capture data from DB
+          </li>
+          <li>
+            Work/Troubleshoot to think out possible solutions to complex problems
+          </li>
+          <li>
+            Use multiple browsers based on troubleshooting needs
+          </li>
+          <li>
+            Work close with UX and backend to accomplish each task
+          </li>
+          <li>
+            Project managed through JIRA using stories and subtasks on Kanban
+          </li>
+          <li>
+            Assets received from Figma to help fulfill design requirements
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        Luckie
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Senior Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2019 - 2020
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Develop and maintain client websites with AEM/JavaScript/CSS
+          </li>
+          <li>
+            Use BrowserStack to test and troubleshoot Windows platforms
+          </li>
+          <li>
+            Use Chrome Developer Tools to troubleshoot outside of Windows platforms
+          </li>
+          <li>
+            Work within JIRA to keep project intake organized
+          </li>
+          <li>
+            Communicate with team and leadership on a per project basis
+          </li>
+          <li>
+            Lead teams to help keep developers and the project on track
+          </li>
+          <li>
+            Strategize with project managers to meet client requests/needs
+          </li>
+          <li>
+            Use Git to commit, push, create PR’s and merge branches
+          </li>
+          <li>
+            Review/comment on Pull Requests before merging to staging
+          </li>
+          <li>
+            Mentor junior developers
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        United Group Programs
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Senior Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2019 - 2019
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Develop and maintain company portals built in React/SASS/Styled-Components/Redux
+          </li>
+          <li>
+            Work closely with Engineering to setup REST endpoints
+          </li>
+          <li>
+            Use CrossBrowserTesting.com to test and troubleshoot within Windows platforms
+          </li>
+          <li>
+            Use Chrome Developer Tools (React and Redux tabs) to troubleshoot outside of Windows platforms
+          </li>
+          <li>
+            Work within Clubhouse to keep work organized
+          </li>
+          <li>
+            Use Git to create commit, push, create PR’s and merge branches
+          </li>
+          <li>
+            Review/comment on Pull Requests before merging to staging
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        DC Blox
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Senior Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2018 - 2019
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Develop and maintain site code built in React/SASS/Redux
+          </li>
+          <li>
+            Work closely with team to fulfill weekly/bi-weekly Sprints
+          </li>
+          <li>
+            Use Parallels to test and troubleshoot within Windows platforms
+          </li>
+          <li>
+            Use Chrome Developer Tools to troubleshoot outside of Windows platforms
+          </li>
+          <li>
+            Work within JIRA to keep work organized and create branches/pull requests
+          </li>
+          <li>
+            Review/comment on Pull Requests before merging to staging
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        Turner Broadcasting
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        />
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2008 - 2018
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Technical Implementation Consultant
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2017-2018
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Work with our Stakeholders (Brand Research,Product Research,Brand Dev) to understand requirements
+          </li>
+          <li>
+            Convert tracking requirements into a technical document (Standard Design Requirements - SDR)
+          </li>
+          <li>
+            Implement JavaScript code based on web tracking requirements
+          </li>
+          <li>
+            Work with vendors to help implement app code tracking requirements (Mobile and OTT)
+          </li>
+          <li>
+            Collaborate with QA and Research to fulfill business requirements
+          </li>
+          <li>
+            Collaborate with my own team to better ourselves and make sure needs are being met
+          </li>
+          <li>
+            Work with our QA and Offshore Dev team to build software, which helps on turnaround time
+          </li>
+        </ul>
+      </div>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Senior Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2012-2017
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Develop and maintain our JavaScript API, which houses Omniture/Nielsen/Comscore analytics tracking
+          </li>
+          <li>
+            Created a local build script, using JavaScript and Python, to help our team run local builds for testing purposes
+          </li>
+          <li>
+            Provide consulting on app development (iOS and Android) towards analytics tracking
+          </li>
+          <li>
+            Ongoing relationship building with our brands
+          </li>
+          <li>
+            Troubleshoot JavaScript issues with Chrome Development Tools and Charles Proxy
+          </li>
+          <li>
+            Continued success of meeting personal, team and department goals
+          </li>
+          <li>
+            Work along side Project Managers and SICs to meet project deadlines and expectations
+          </li>
+          <li>
+            Organize projects using AGILE Rapid Boards using Kanban layout
+          </li>
+          <li>
+            Worked with leadership to plan for our next platform, which would be a tag management solution
+          </li>
+        </ul>
+      </div>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2008-2012
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Developed and maintain our QA Tool based in JavaScript
+          </li>
+          <li>
+            Developed and maintain our skin template system based in JavaScript and JQuery
+          </li>
+          <li>
+            Developed our in-house interstitial, which plays video’s, swf’s and displays images in JavaScript and jQuery
+          </li>
+          <li>
+            Troubleshoot JavaScript issues via FireBug and the Developer’s Tool Kit
+          </li>
+          <li>
+            Strong working knowledge of the Unix command line
+          </li>
+          <li>
+            Continuous learning and use of JavaScript libraries
+          </li>
+          <li>
+            Ongoing relationship building with my team and our clients and vendors
+          </li>
+          <li>
+            Develop applications based in JavaScript to better assist my team in their QA process
+          </li>
+          <li>
+            Work through ticket system (JIRA) to ensure organization and priority
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        Georgia Department of Education
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Web Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2007-2008
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li>
+            Built client relationship with each scheduled project
+          </li>
+          <li>
+            Responsible for meeting client deadlines based on a two build a week process
+          </li>
+          <li>
+            Managed websites coded in XSLT technology using Visual Studio 2005, Visual Source Safe, SQL Server, Photoshop CS3, Flash CS3, and XHTML using W3C standards
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -16,18 +16,22 @@
   ],
   "links": [
     {
+      "id": 1,
       "url": "https://github.com/brannonglover?tab=repositories",
       "name": "GitHub"
     },
     {
+      "id": 2,
       "url": "https://twitter.com/BrannonGlover",
       "name": "Twitter"
     },
     {
+      "id": 3,
       "url": "https://medium.com/@brannonglover",
       "name": "Medium"
     },
     {
+      "id": 4,
       "url": "https://www.linkedin.com/in/brannon-glover-31a22212/",
       "name": "LinkedIn"
     }
