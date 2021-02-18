@@ -25,7 +25,7 @@ const NavBar: React.FC<INavBarProps> = React.forwardRef(
             <Image>
               <img src={Me} alt="Brannon Glover" />
             </Image>
-            <Title>{strings.FRONTEND_DEV}</Title>
+            <Title>{strings.WEB_DEV}</Title>
           </Avatar>
           <Menu />
           <Hamburger onClick={menuToggle}>

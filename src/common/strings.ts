@@ -10,7 +10,7 @@ const strings: IStrings = {
   are in need of a developer.`,
   "TECHNICAL_SKILLS": "Technical Skills",
   HISTORY: "History",
-  "FRONTEND_DEV": "Frontend Developer"
+  "WEB_DEV": "Web Developer"
 }
 
 export default strings;
