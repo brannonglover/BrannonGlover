@@ -5,6 +5,7 @@
     "React Hooks",
     "Context",
     "Redux",
+    "TypeScript",
     "JavaScript",
     "REST",
     "CSS",
@@ -12,6 +13,24 @@
     "JSON",
     "styled-components",
     "HTML"
+  ],
+  "links": [
+    {
+      "url": "https://github.com/brannonglover?tab=repositories",
+      "name": "GitHub"
+    },
+    {
+      "url": "https://twitter.com/BrannonGlover",
+      "name": "Twitter"
+    },
+    {
+      "url": "https://medium.com/@brannonglover",
+      "name": "Medium"
+    },
+    {
+      "url": "https://www.linkedin.com/in/brannon-glover-31a22212/",
+      "name": "LinkedIn"
+    }
   ],
   "history": [
     {

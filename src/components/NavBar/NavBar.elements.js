@@ -1,18 +1,23 @@
 import styled from 'styled-components/macro';
 
-export const NavBarContainer = styled.div`
+export const NavBarWrapper = styled.div`
   width: 100%;
-  display: flex;
   background-color: #414047;
-  border-bottom: 1px solid #fff;
+  border-bottom: 2px solid #a83214;
   position: fixed;
   top: 0;
   z-index: 5;
 `;
 
+export const NavBarContainer = styled.div`
+  max-width: 75em;
+  display: flex;
+  margin: 0 auto;
+`;
+
 export const Avatar = styled.div`
   display: flex;
-  flex-basis: 85%;
+  flex: 1;
   align-items: center;
 `;
 
@@ -40,6 +45,11 @@ export const Hamburger = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding-right: 1em;
+
+  @media screen and (min-width: 768px) {
+    display: none;
+  }
 
   div {
     width: 2em;
@@ -52,4 +62,13 @@ export const Hamburger = styled.div`
 
 export const Links = styled.div`
   display: none;
+
+  @media screen and (min-width: 768px) {
+    display: flex;
+
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+  }
 `;
