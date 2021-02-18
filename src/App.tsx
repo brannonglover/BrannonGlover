@@ -15,10 +15,12 @@ function App() {
   };
 
   useEffect(() => {
-    if (navBar.current) {
-      const getNavHeight = navBar.current;
-      setNavHeight(getNavHeight.offsetHeight);
-    }
+    setTimeout(() => {
+      if (navBar.current) {
+        const getNavHeight = navBar.current;
+        setNavHeight(getNavHeight.offsetHeight);
+      }
+    }, 250);
   }, [navHeight]);
 
   return (
