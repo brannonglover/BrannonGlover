@@ -103,6 +103,96 @@ exports[`Render Resume component 1`] = `
       <h2
         class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
       >
+        WarnerMedia (contractor)
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Full Stack Senior Developer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2021 - Present
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li />
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        Home Depot (contractor)
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Staff Software Engineer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2020 - 2021
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li />
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
+        Paya (contractor)
+      </h2>
+      <div
+        class="ResumeHistoryelements__Header-l110hb-2 fbKfzQ"
+      >
+        <h3
+          class="ResumeHistoryelements__Title-l110hb-3 blNVKZ"
+        >
+          Senior Software Engineer
+        </h3>
+        <div
+          class="ResumeHistoryelements__TTL-l110hb-4 hIXhAX"
+        >
+          2020 - 2021
+        </div>
+      </div>
+      <div
+        class="ResumeHistoryelements__WhatIDid-l110hb-5 dqKUOP"
+      >
+        <ul>
+          <li />
+        </ul>
+      </div>
+    </div>
+    <div
+      class="ResumeHistoryelements__History-l110hb-0"
+    >
+      <h2
+        class="ResumeHistoryelements__Employment-l110hb-1 xaViQ"
+      >
         Recon Velocity (contractor)
       </h2>
       <div
