@@ -45,7 +45,11 @@
       "multiple": false,
       "ttl": "2021 - Present",
       "whatidid": [
-        ""
+        "Building out components with React, on a per project basis, using Storybook",
+        "Work with Project Managers and Designers to make sure design is built out properly",
+        "Continued maintenance on past projects",
+        "Continuous deployments using CI/CD principles with GitHub Actions",
+        "Assist other developers on any help that is needed"
       ]
     },
     {
@@ -53,9 +57,14 @@
       "company": "Home Depot (contractor)",
       "title": "Staff Software Engineer",
       "multiple": false,
-      "ttl": "2020 - 2021",
+      "ttl": "2021 - 2021",
       "whatidid": [
-        ""
+        "Helping with migration of Customer Search portal from Angular to React",
+        "Building out components using React/Hooks/SASS",
+        "Using JIRA to help with project organization using Sprint based planning",
+        "Work along side Project Manager and Designer to help with design and ideas",
+        "Provide ideas and suggestions around better user experiences, which then get converted to tickets",
+        "Provide support for other developers around React best practices"
       ]
     },
     {
@@ -65,7 +74,14 @@
       "multiple": false,
       "ttl": "2020 - 2021",
       "whatidid": [
-        ""
+        "Building out new features for Paya’s brand using React/Hooks/SASS/styled-components",
+        "Using styled-components, where necessary, on re-usable components",
+        "Continued maintenance on Paya’s tools to help fix vulnerable issues",
+        "Complete refactor on current project due to inherit issues from third-party vendor",
+        "Using JIRA to keep organized on Sprints using Agile",
+        "Work with Scrum Master to make sure we are on track with current Sprint",
+        "Provide ideas and suggestions around better user experiences, which then get converted to tickets",
+        "Provide support for other developers around React best practices"
       ]
     },
     {
