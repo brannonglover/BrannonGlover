@@ -13,7 +13,8 @@
     "CSS-in-JS",
     "JSON",
     "HTML",
-    "Docker"
+    "Docker",
+    "AWS"
   ],
   "links": [
     {
@@ -40,16 +41,18 @@
   "history": [
     {
       "id": 1,
-      "company": "WarnerMedia (contractor)",
+      "company": "WarnerBros Discovery (contractor)",
       "title": "Full Stack Senior Developer",
       "multiple": false,
       "ttl": "2021 - Present",
       "whatidid": [
         "Building out components with React, on a per project basis, using Storybook",
-        "Work with Project Managers and Designers to make sure design is built out properly",
+        "Work with Project Managers and Designers to make sure design is built from Figma",
         "Continued maintenance on past projects",
         "Continuous deployments using CI/CD principles with GitHub Actions",
-        "Assist other developers on any help that is needed"
+        "Assist other developers on any help that is needed",
+        "Work heavily within AWS around S3, ECS, ECR, and more",
+        "Coninued communication via Slack, Zoom, Webex, JIRA and email"
       ]
     },
     {
