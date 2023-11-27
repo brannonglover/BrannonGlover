@@ -13,8 +13,8 @@ const Menu: React.FC<IMenuProps> = ({ showMenu, menuToggle }) => {
       <ul>
         {data.links.map((link) => (
           <li key={link.id}>
-            <a href={link.url} rel="noreferrer" target="_blank">
-              {link.name}
+            <a href={link.url} title={link.name} rel="noreferrer" target="_blank">
+              <img src={link.image} alt={link.name} height="30" />
             </a>
           </li>
         ))}
