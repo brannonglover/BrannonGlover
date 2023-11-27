@@ -38,7 +38,6 @@ export const Image = styled.div`
 export const Title = styled.div`
   font-size: 1.2em;
   color: #fff;
-  padding-left: .5em;
 `;
 
 export const Hamburger = styled.div`
@@ -71,4 +70,8 @@ export const Links = styled.div`
       color: #fff;
     }
   }
+`;
+
+export const Description = styled.div`
+  align-items: center;
 `;

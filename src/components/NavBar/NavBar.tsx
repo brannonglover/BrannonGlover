@@ -6,10 +6,12 @@ import {
   Image,
   Title,
   Hamburger,
+  Description
 } from "./NavBar.elements";
 import Me from "../../assets/images/me.png";
 import strings from "../../common/strings";
 import Menu from "../Menu/Menu";
+import ResumeDownload from "./ResumeDownload/ResumeDownload";
 
 interface INavBarProps {
   menuToggle: () => void;
@@ -25,7 +27,10 @@ const NavBar: React.FC<INavBarProps> = React.forwardRef(
             <Image>
               <img src={Me} alt="Brannon Glover" />
             </Image>
-            <Title>{strings.WEB_DEV}</Title>
+            <Description>
+              <Title>{strings.WEB_DEV}</Title>
+              <ResumeDownload />
+            </Description>
           </Avatar>
           <Menu />
           <Hamburger onClick={menuToggle}>
