@@ -28,7 +28,7 @@ const NavBar: React.FC<INavBarProps> = React.forwardRef(
             <Image>
               <img src={Me} alt="Brannon Glover" />
             </Image>
-            <Title>{strings.WEB_DEV} <a href="../../assets/Brannon-Resume.docx"><img src={DownloadIcon} height="15" /></a></Title>
+            <Title>{strings.WEB_DEV} <a href="/Brannon-Resume.docx"><img src={DownloadIcon} height="15" /></a></Title>
             {/* <ResumeDownload /> */}
           </Avatar>
           <Menu />
